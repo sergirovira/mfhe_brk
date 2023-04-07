@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/sergi/Downloads/mfhe_brk-main/target/debug/build/typenum-9f14d58710fe33b6/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/sergi/Downloads/mfhe_brk-main/target/debug/build/typenum-9f14d58710fe33b6/out/op.rs
